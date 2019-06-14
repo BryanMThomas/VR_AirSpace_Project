@@ -1,2 +1,2 @@
 ## System Design <h2>
-  ![Image1](https://drive.google.com/open?id=1ecxeeNldkxywO_9e4ioxvi_5-80wTtN-)
+  ![Image1](https://github.com/BryanMThomas/VR_AirSpace_Project/blob/master/System%20Design.jpg)
