@@ -1,6 +1,6 @@
 # VR_AirSpace_Project
-VR Project done in conjunction with General Dynamics to establish remote airspace in Virtual Reality
-PROJECT GOAL:Create the ability to have people remotely control an airspace allowing for better utilization of air traffic controllers across the country, and serve the needs of smaller airports that may find it hard to keep a full time staff.
+VR Project done in conjunction with General Dynamics to establish remote airspace in Virtual Reality<br/>
+PROJECT GOAL: Create the ability to have people remotely control an airspace allowing for better utilization of air traffic controllers across the country, and serve the needs of smaller airports that may find it hard to keep a full time staff.<br/>
 
 UTILIZED TECHNOLOGIES:<br/>
 AWS Instances for hosting required Swagger APIS<br/>
