@@ -8,7 +8,9 @@ AWS Instances for hosting required Swagger APIS<br/>
 Unity/C# for VR development displated in HTC Vive<br/>
 Data sourced for USGS for topographical and OpenSky for ADS-B<br/>
 
-Check out DEMO Videos in the google drive:
+For more photos Check out [Demo_Photos.md](Demo_Photos.md)
+
+DEMO Videos stored in the google drive:
 [Demo Videos](https://drive.google.com/open?id=1ClMui-ufktOjVSKXsIXiiInFr-4mH1zO)
 <br/>
 <br/>
